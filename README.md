@@ -1,3 +1,5 @@
+Test URL : http://54.173.219.234:3000
+
 Simple showcase project showing weather data written in react-redux-thunk
 
 It gets weather data from the API provided by [Open Weather Map](http://openweathermap.org/).
